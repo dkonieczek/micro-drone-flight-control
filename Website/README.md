@@ -12,6 +12,4 @@ in the each of the following files:
 /drone/login2.php <br>
 /drone/submit.php <br>
 
-
-
-you must replace 'user_here' and 'password_here' with your MySQL user and password respectively. 
+you must replace 'user_here', 'password_here' and 'CENG' with your MySQL user and password, and database schema respectively. 
