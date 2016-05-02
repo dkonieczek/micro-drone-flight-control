@@ -1,7 +1,7 @@
 NOTE for the following line:
 
 <pre>
-$con = mysqli_connect("localhost","user_here","password_here","CENG"); //must include mysql user and password
+mysqli_connect("localhost","user_here","password_here","CENG"); //must include mysql user and password
 </pre>
 
 in the each of the following files:
