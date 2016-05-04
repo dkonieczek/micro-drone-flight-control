@@ -9,6 +9,6 @@ A full report can found [on my personal website.](http://dkonieczek.com/projects
 alt=“Micro Drone Flight Control Demo Video” width="700" border="1" /></a>
 
 This team project consisted of the following members:
-* Dennis Konieczek @dkonieczek
-* Nikolas Spendik @nspendik22
-* Peter Ayoub
+* Dennis Konieczek [@dkonieczek](https://github.com/dkonieczek "GitHub")
+* Nikolas Spendik [@nspendik22](https://github.com/nspendik22 "GitHub")
+* Peter Ayoub [E-mail](mailto:payoub94@gmail.com "E-mail")
